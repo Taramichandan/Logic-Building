@@ -17,3 +17,4 @@ def findNum(arr) :
 
 
 print(findNum([8,4,5,9,10,24]))
+
